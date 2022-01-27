@@ -1,0 +1,8 @@
+Functions is a group of related statements that performs a specific task
+They help us to devide a large program into small chunks so that is easy to understand and change
+To create a function we use def key word followed by function_name ex: def (function_name)
+
+
+Lambada functions are single line functions
+lambada function can take any number of arguments but can have only one expressiom
+
